@@ -1,7 +1,7 @@
 ### Olá Dev's 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Verdana&size=30&color=ede247&background=27272700&height=110&lines=Nunca+pare+de+aprender!)](https://git.io/typing-svg)
-- 🔭 Estou querendo ingressar na área de T.I. Desenvolvimento Web;
+- 🔭 Em busca de uma oportunidade para ingressar na área de T.I. Desenvolvimento Web;
 - 🌱 No momento estou aprendendo: HTML, CSS, GIT, GITHUB ... 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -12,6 +12,7 @@
 - 📚 Minha linguagem de Programação favorita é JavaScript;
 <br>
 ## **Rede Sociais!**
+<br>
 <br>
 <a href="https://www.facebook.com/maumau.lima">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> 
@@ -24,6 +25,7 @@
 </a>
 </br>
 ## **Contatos!**
+<br>
 <br>
 <a href="https://api.whatsapp.com/send/?phone=5551992383038">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  
