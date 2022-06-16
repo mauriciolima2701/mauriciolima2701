@@ -1,9 +1,6 @@
 ### Hi Dev's 👋
 
-<!--
-**mauriciolima2701/mauriciolima2701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ede247&background=27272700&multiline=true&height=110&lines=Nunca+pare+de+aprender!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
