@@ -28,7 +28,7 @@
 </div>
 <hr>
 <div>
-  ![Snake animation](https://github.com/mauriciolima2701/main/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mauriciolima2701/mauriciolima2701/blob/output/github-contribution-grid-snake.svg)
 </div>  
 <hr>
 <br>
