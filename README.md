@@ -8,13 +8,14 @@
 - 📚 Minha linguagem de Programação favorita no momento é JavaScript;
 <br>
 <hr>
-<img align="right" width="300" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
+<img align="right" width="290" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
 
 ```js
 const iAm = {
   name: 'MAURICIO LIMA DA SILVA',
   aboutMe: [
-    ' Sou uma pessoa que gosta de aprender e ensinar, repassar o conhecimento adquirido.',
+    ' Sou uma pessoa que gosta de aprender e ensinar, 
+    repassar o conhecimento adquirido.',
     ' Gosto muito de tecnologia, filmes e games.',
     ' Atualmente estou cursando o Programa Starter da Growdev.',
   ],
