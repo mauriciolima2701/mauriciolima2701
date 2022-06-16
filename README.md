@@ -4,9 +4,34 @@
 - 📌 Em busca de uma oportunidade para ingressar na área de T.I. Desenvolvimento Web;
 - 💻 No momento estou estudando: HTML, CSS, GIT, GITHUB ... 
 - ⚽ Meus Hobbies são Jogar futebol, 🎮 video game, series e filmes;
-- 💼 Trabalhei como Suporte Técnico nas empresas Teledata e Stefanini;
+- 💼 Trabalhei como Suporte Técnico nas empresas Teledata e Stefanini. Atualmente estava trabalhando no comércio;
 - 📚 Minha linguagem de Programação favorita no momento é JavaScript;
 <br>
+<hr>
+<img align="right" width="300" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
+
+```js
+const iAm = {
+  name: 'MAURICIO LIMA DA SILVA',
+  aboutMe: [
+    ' Sou uma pessoa que gosta de aprender e ensinar, repassar o conhecimento adquirido.',
+    ' Gosto muito de tecnologia, filmes e games.',
+    ' Atualmente estou cursando o Programa Starter da Growdev.',
+  ],
+  primarySkillset: [
+    'determinado',
+    'colaborativo',
+    'autodidata',
+    'pontual', 
+  ],
+  listOfProgrammingLanguages: [
+    'html', 
+    'css', 
+    'JavaScript' 
+   ],
+};
+```
+
 <hr>
 <div align="center">
   <a href="https://github.com/mauriciolima2701">
