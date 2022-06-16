@@ -1,6 +1,6 @@
 ### Olá Dev's 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Verdana&size=30&color=ede247&background=27272700&height=110&lines=Nunca+pare+de+aprender!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Verdana&size=30&color=ede247&background=27272700&multiline=true&height=110&lines=Nunca+pare+de+aprender!)](https://git.io/typing-svg)
 - 🔭 Em busca de uma oportunidade para ingressar na área de T.I. Desenvolvimento Web;
 - 🌱 No momento estou aprendendo: HTML, CSS, GIT, GITHUB ... 
 - 👯 I’m looking to collaborate on ...
@@ -27,13 +27,10 @@
    
 </div>
 <hr>
-<div>
-  ![Snake animation](https://github.com/mauriciolima2701/mauriciolima2701/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 <hr>
 <br>
-## **Rede Sociais!**
+ REDE SOCIAIS:
 <br>
 <br>
 <a href="https://www.facebook.com/maumau.lima" target="_blank">
@@ -46,7 +43,7 @@
 </a>
 </br>
 <br>
-## ** Contatos **
+ CONTATOS:
 <br>
 <br>
 <a href="https://api.whatsapp.com/send/?phone=5551992383038" target="_blank">
