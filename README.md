@@ -11,21 +11,21 @@
 - ⚡ Fun fact: ...
 - 📚 Minha linguagem de Programação favorita é JavaScript;
 <br>
-## **Rede Sociais!**
+## ** Rede Sociais **
 <br>
 <br>
 <a href="https://www.facebook.com/maumau.lima" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> 
 </a>
-<a href="https://www.instagram.com/mauricio2701" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  
+<a href="https://www.instagram.com/mauricio2701">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />  
 </a>
 <a href="https://www.linkedin.com/in/mauriciolimas/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </br>
 <br>
-## **Contatos!**
+## ** Contatos **
 <br>
 <br>
 <a href="https://api.whatsapp.com/send/?phone=5551992383038" target="_blank">
