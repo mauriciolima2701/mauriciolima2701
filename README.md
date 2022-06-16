@@ -27,9 +27,9 @@
    
 </div>
 <hr>
-<div>
-  ![Snake animation](https://github.com/mauriciolima2701/mauriciolima2701/blob/output/github-contribution-grid-snake.svg)
-</div>  
+ 
+  ![Snake animation] (https://github.com/mauriciolima2701/mauriciolima2701/blob/output/github-contribution-grid-snake.svg)
+  
 <hr>
 <br>
  REDE SOCIAIS:
