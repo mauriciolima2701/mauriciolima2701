@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Verdana&size=30&color=ede247&background=27272700&multiline=true&height=110&lines=Nunca+pare+de+aprender!)](https://git.io/typing-svg)
 - 📌 Em busca de uma oportunidade para ingressar na área de T.I. Desenvolvimento Web;
-- 💻 No momento estou estudando: HTML, CSS, JavaScript, TypeScript, Bootstrap, GIT, GITHUB ... 
+- 💻 No momento estou estudando: HTML, CSS, JavaScript, TypeScript, Bootstrap, ReactJS, M.UI, GIT, GITHUB ... 
 - ⚽ Meus Hobbies são Jogar futebol, 🎮 video game, series e filmes;
 - 💼 Trabalhei como Suporte Técnico nas empresas Teledata e Stefanini. Atualmente estava trabalhando no comércio;
-- 📚 Minha linguagem de Programação favorita no momento é JavaScript;
+- 📚 Minha linguagem de Programação favorita no momento é JavaScript/Typescript;
 <br>
 <hr>
 <img align="right" width="290" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
@@ -30,7 +30,9 @@ const iAm = {
     'css', 
     'JavaScript',
     'TypeScript',
-    'Bootstrap'
+    'Bootstrap',
+    'ReactJS',
+    'Material UI',
    ],
 };
 ```
