@@ -1,7 +1,7 @@
 ### Olá Dev's 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Verdana&size=30&color=ede247&background=27272700&multiline=true&height=110&lines=Nunca+pare+de+aprender!)](https://git.io/typing-svg)
-- 📌 Atualmente atuando como Trainee na Arezzo&CO;
+- 📌 Atualmente atuando como Front-end Trainee na Arezzo&CO;
 - 💻 No momento estou estudando: HTML, CSS, JavaScript, TypeScript, ReactJS, M.UI, GIT, GITHUB ... 
 - ⚽ Meus Hobbies são Jogar futebol, 🎮 video game, series e filmes;
 - 💼 Trabalhei com Suporte Técnico (HelpDesk) atuando dentro da Caixa Econômica Federal-RS e Assembleia Legislativa-RS.
