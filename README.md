@@ -17,7 +17,7 @@ const iAm = {
     ' Sou uma pessoa que gosta de aprender e ensinar, 
     repassar o conhecimento adquirido.',
     ' Gosto muito de tecnologia, filmes e games.',
-    ' Atualmente estou cursando o Programa Starter da Growdev.',
+    ' Desenvolvimento Web Front-end.',
   ],
   primarySkillset: [
     'determinado',
