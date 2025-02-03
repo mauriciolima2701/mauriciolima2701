@@ -15,7 +15,7 @@ const iAm = {
   name: 'MAURICIO LIMA DA SILVA',
   aboutMe: [
     ' Sou uma pessoa que gosta de aprender e ensinar', 
-    'repassar o conhecimento adquirido.',
+    ' repassar o conhecimento adquirido.',
     ' Gosto muito de tecnologia, filmes e games.',
     ' Desenvolvimento Web Front-end.',
   ],
