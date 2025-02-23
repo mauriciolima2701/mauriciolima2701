@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Verdana&size=30&color=ede247&background=27272700&multiline=true&height=60&lines=Nunca+pare+de+aprender!)](https://git.io/typing-svg)
 
 - 📌 Desenvolvedor Front-end Web;
-- 💻 No momento estou estudando: HTML, CSS, JavaScript, TypeScript, ReactJS, Tailwind, GIT ...
-- ⚽ Meus Hobbies são Jogar futebol, 🎮 video game, series e filmes;
+- 💻 No momento estou estudando: HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, Tailwind, GIT ...
+- ⚽ Meus Hobbies são Jogar futebol, 🎮 video game, filmes;
 - 💼 Trabalhei com Suporte Técnico (HelpDesk) atuando dentro da Caixa Econômica Federal-RS e Assembleia Legislativa-RS.
 - 📚 Minha linguagem de Programação favorita no momento é JavaScript/Typescript;
 <br>
@@ -51,6 +51,8 @@ const iAm = {
   <img align="center" alt="MauMau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      
   <img align="center" alt="MauMau-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+
+  <img align="center" alt="MauMau-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 
   <img align="center" alt="MauMau-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
 
