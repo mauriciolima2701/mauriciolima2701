@@ -2,46 +2,45 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Verdana&size=30&color=ede247&background=27272700&multiline=true&height=60&lines=Nunca+pare+de+aprender!)](https://git.io/typing-svg)
 
-- 📌 Front-end Web;
+- 📌 Desenvolvedor Front-end Web;
 - 💻 No momento estou estudando: HTML, CSS, JavaScript, TypeScript, ReactJS, Tailwind, GIT ...
 - ⚽ Meus Hobbies são Jogar futebol, 🎮 video game, series e filmes;
 - 💼 Trabalhei com Suporte Técnico (HelpDesk) atuando dentro da Caixa Econômica Federal-RS e Assembleia Legislativa-RS.
 - 📚 Minha linguagem de Programação favorita no momento é JavaScript/Typescript;
 <br>
 <hr>
-<br>
 <img align="right" width="290" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
 
 ```js
 const iAm = {
-	name: "Maurício Lima da Silva",
-	aboutMe: [
-		" Sou uma pessoa que gosta de aprender e ensinar",
-		" repassar o conhecimento adquirido.",
-		" Gosto muito de tecnologias, filmes, futebol e games.",
-		" Desenvolvimento Web Front-end.",
-	],
-	primarySkillSet: [
-    "determinado",
-    "colaborativo",
-    "autodidata",
-    "pontual"
-  ],
-	listOfProgrammingLanguages: [
-		"html",
-		"css",
-		"scss",
-		"JavaScript",
-		"TypeScript",
-		"Tailwind",
-		"Styled_Component",
-		"ReactJS",
-		"NextJS",
-		"Material UI",
-		"Shadcn",
-		"Git",
-		"loading ...",
-	],
+    name: "Maurício Lima da Silva",
+    aboutMe: [
+	" Sou uma pessoa que gosta de aprender e ensinar",
+	" repassar o conhecimento adquirido.",
+	" Gosto muito de tecnologias, filmes, futebol e games.",
+	" Desenvolvimento Web Front-end.",
+     ],
+    primarySkillSet: [
+    	"determinado",
+    	"colaborativo",
+    	"autodidata",
+    	"pontual"
+     ],
+     listOfProgrammingLanguages: [
+	"html",
+	"css",
+	"scss",
+	"JavaScript",
+	"TypeScript",
+	"Tailwind",
+	"Styled_Component",
+	"ReactJS",
+	"NextJS",
+	"Material UI",
+	"Shadcn",
+	"Git",
+	"loading ...",
+      ],
 };
 ```
 
