@@ -3,12 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Verdana&size=30&color=ede247&background=27272700&multiline=true&height=60&lines=Nunca+pare+de+aprender!)](https://git.io/typing-svg)
 
 - 📌 Desenvolvedor Front-end Web;
-- 💻 No momento estou estudando: HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, Tailwind, GIT ...
+- 📚 No momento estou estudando: HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, Tailwind, GIT ...
 - ⚽ Meus Hobbies são Jogar/assistir futebol, filmes e investimentos;
 - 💼 Trabalhei com Suporte Técnico (HelpDesk) atuando dentro da Caixa Econômica Federal-RS e Assembleia Legislativa-RS.
 - 💼 Atuei também como Front-End na empresa Arezzo&CO.
-- 📚 Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web.
-- 🚀 Utilizo a stack Javascript/Typescript (React & NextJS) para desenvolver os meus projetos.
+- 💻 Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web.
+- 🚀 Utilizo a stack Javascript/Typescript (ReactJS & NextJS) para desenvolver os meus projetos.
 <br>
 <hr>
 <img align="right" width="290" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
