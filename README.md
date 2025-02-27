@@ -6,7 +6,7 @@
 - 📚 No momento estou estudando: HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, Tailwind, GIT ...
 - ⚽ Meus Hobbies são Jogar/assistir futebol, filmes e investimentos;
 - 💼 Trabalhei com Suporte Técnico (HelpDesk) atuando dentro da Caixa Econômica Federal-RS e Assembleia Legislativa-RS.
-- 💼 Atuei também como Front-End na empresa Arezzo&CO.
+- 💼 Atuei também como Front-End (trainee) na empresa Arezzo&CO.
 - 💻 Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web.
 - 🚀 Utilizo a stack Javascript/Typescript (ReactJS & NextJS) para desenvolver os meus projetos.
 <br>
