@@ -26,7 +26,10 @@ const iAm = {
     	"determinado",
     	"colaborativo",
     	"autodidata",
-    	"pontual"
+    	"pontual",
+	"organizado",
+	"comprometido",
+	"trabalhar em equipe"
      ],
      listOfProgrammingLanguages: [
 	"html",
