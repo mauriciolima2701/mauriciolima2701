@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Verdana&size=30&color=ede247&background=27272700&multiline=true&height=60&lines=Nunca+pare+de+aprender!)](https://git.io/typing-svg)
 
 - 📌 Desenvolvedor Front-end Web;
-- 📚 No momento estou estudando: HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, Tailwind, GIT ...
-- 💼 Trabalhei com Suporte Técnico (HelpDesk) atuando dentro da Caixa Econômica Federal-RS e Assembleia Legislativa-RS.
-- 💼 Atuei também como Front-End na empresa Arezzo&CO.
+- 👨‍🎓 Cursando Bacharelado em Engenharia de Software
+- 📚 No momento estou estudando: HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, Tailwind, GIT, Node ...
+- 💼 Experiência com <b>Front-end Web</b> e Suporte Técnico (HelpDesk).
 - 💻 Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web.
 - 🚀 Utilizo a stack Javascript/Typescript (ReactJS & NextJS) para desenvolver os meus projetos.
 <br>
@@ -44,6 +44,8 @@ const iAm = {
 		"Material UI",
 		"Shadcn",
 		"Git",
+		"Node",
+		"Express,"
 		"loading ...",
      ],
 };
