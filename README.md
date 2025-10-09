@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Verdana&size=30&color=ede247&background=27272700&multiline=true&height=60&lines=Nunca+pare+de+aprender!)](https://git.io/typing-svg)
 
-- 📌 Desenvolvedor Front-end Web;
+- 📌Desenvolvedor Front-end Web;
 - 👨‍🎓 Cursando Bacharelado em Engenharia de Software
 - 📚 No momento estou estudando: HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, Tailwind, GIT, Node ...
 - 💼 Experiência com <b>Front-end Web</b> e Suporte Técnico (HelpDesk).
