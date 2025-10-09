@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Verdana&size=30&color=ede247&background=27272700&multiline=true&height=60&lines=Nunca+pare+de+aprender!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Verdana&size=30&color=ff6d18&background=27272700&multiline=true&height=60&lines=Nunca+pare+de+aprender!)](https://git.io/typing-svg)
 
 - 📌Desenvolvedor Front-end Web;
 - 👨‍🎓 Cursando Bacharelado em Engenharia de Software
