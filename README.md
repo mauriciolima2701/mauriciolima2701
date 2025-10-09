@@ -97,3 +97,9 @@ const iAm = {
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  
 </a>
 </br>
+<hr>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciolima2701/mauriciolima2701/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mauriciolima2701/mauriciolima2701/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mauriciolima2701/mauriciolima2701/output/pacman-contribution-graph.svg">
+</picture>
