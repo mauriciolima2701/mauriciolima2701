@@ -8,7 +8,6 @@
 - 💼 Experiência com <b>Front-end Web</b> e Suporte Técnico (HelpDesk).
 - 💻 Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web.
 - 🚀 Utilizo a stack Javascript/Typescript (ReactJS & NextJS) para desenvolver os meus projetos.
-<br>
 <hr>
 <img align="right" width="290" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
 
@@ -50,7 +49,6 @@ const iAm = {
      ],
 };
 ```
-
 <hr>
 🛠️ <b>TECH STACK AND TOOLS </b>
 <div style="display: flex; gap: 8px"><br>
@@ -83,8 +81,7 @@ const iAm = {
    
 </div>
 <hr>
- 
-<br>
+
 💌 <b>ENTRE EM CONTATO: </b>
 <br>
 <br>
@@ -96,7 +93,6 @@ const iAm = {
 <a href="https://api.whatsapp.com/send/?phone=5551992383038" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  
 </a>
-</br>
 <hr>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciolima2701/mauriciolima2701/output/pacman-contribution-graph-dark.svg">
